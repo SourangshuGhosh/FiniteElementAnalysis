@@ -1,5 +1,5 @@
 
-# AsFem
+# Finite Element Analysis
 
 
 # Download
@@ -16,5 +16,3 @@ https://space.bilibili.com/100272198/channel/detail?cid=90241
 # Contact
 [Sourangshu Ghosh](mailto:sourangshug123@gmail.com)
 
-
-QQ group: 879908352
