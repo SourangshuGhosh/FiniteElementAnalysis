@@ -4,7 +4,7 @@
 
 # Download
 ```
-git clone https://github.com/yangbai90/AsFem.git
+git clone https://github.com/SourangshuGhosh/FiniteElementAnalysis.git
 ```
 
 # Demos
@@ -14,7 +14,7 @@ https://space.bilibili.com/100272198/channel/detail?cid=90241
 [AsFem wiki](https://github.com/yangbai90/AsFem/wiki)
 
 # Contact
-[walkandthinker](mailto:walkandthinker@gmail.com)
+[Sourangshu Ghosh](mailto:sourangshug123@gmail.com)
 
 
 QQ group: 879908352
